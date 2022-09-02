@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://dreamvipgit.github.io/csb-yb52t9/static/css/main.1be7fa6f.chunk.css",
+    "main.js": "https://dreamvipgit.github.io/csb-yb52t9/static/js/main.e5d10476.chunk.js",
+    "main.js.map": "https://dreamvipgit.github.io/csb-yb52t9/static/js/main.e5d10476.chunk.js.map",
+    "runtime-main.js": "https://dreamvipgit.github.io/csb-yb52t9/static/js/runtime-main.31af6724.js",
+    "runtime-main.js.map": "https://dreamvipgit.github.io/csb-yb52t9/static/js/runtime-main.31af6724.js.map",
+    "static/js/2.44dc0753.chunk.js": "https://dreamvipgit.github.io/csb-yb52t9/static/js/2.44dc0753.chunk.js",
+    "static/js/2.44dc0753.chunk.js.map": "https://dreamvipgit.github.io/csb-yb52t9/static/js/2.44dc0753.chunk.js.map",
+    "index.html": "https://dreamvipgit.github.io/csb-yb52t9/index.html",
+    "static/css/main.1be7fa6f.chunk.css.map": "https://dreamvipgit.github.io/csb-yb52t9/static/css/main.1be7fa6f.chunk.css.map",
+    "static/js/2.44dc0753.chunk.js.LICENSE.txt": "https://dreamvipgit.github.io/csb-yb52t9/static/js/2.44dc0753.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31af6724.js",
+    "static/js/2.44dc0753.chunk.js",
+    "static/css/main.1be7fa6f.chunk.css",
+    "static/js/main.e5d10476.chunk.js"
+  ]
+}
